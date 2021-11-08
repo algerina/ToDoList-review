@@ -13,7 +13,7 @@ body {
   width: 100%;
   background-color: #e5e5f7;
   opacity: 0.8;
-  background-image:  linear-gradient(#444cf7 2px, transparent 2px), linear-gradient(90deg, #444cf7 2px, transparent 2px), linear-gradient(#444cf7 1px, transparent 1px), linear-gradient(90deg, #444cf7 1px, #e5e5f7 1px);
+  background-image: linear-gradient(#444cf7 2px, transparent 2px), linear-gradient(90deg, #444cf7 2px, transparent 2px), linear-gradient(#444cf7 1px, transparent 1px), linear-gradient(90deg, #444cf7 1px, #e5e5f7 1px);
   background-size: 50px 50px, 50px 50px, 10px 10px, 10px 10px;
   background-position: -2px -2px, -2px -2px, -1px -1px, -1px -1px;
 }
@@ -72,7 +72,6 @@ button {
   background: lightgray;
   color: red;
   width: 100%;
-
   box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 22px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -119,7 +118,7 @@ button {
 #addBtn {
   width: 20px;
   border: none;
-  color: rgb(33, 11, 92);;
+  color: rgb(33, 11, 92);
 }
 
 #todoList {
