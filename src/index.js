@@ -7,7 +7,6 @@ let tasks = storedTasks || [];
 const addInput = document.getElementById('newTask');
 const addButton = document.getElementById('addBtn');
 const deleteButton = document.getElementById('clear');
-console.log(deleteButton);
 class Todo {
   constructor(description, completed = false) {
     this.description = description;
