@@ -83,5 +83,3 @@ function deleteCompleted() {
 }
 
 deleteButton.addEventListener('click', deleteCompleted);
-
-// export default editItem;
